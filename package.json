@@ -4,6 +4,7 @@
   "description": "A sample working protractor project with minimum code required",
   "main": "index.js",
   "scripts": {
+    "before-test": "webdriver-manager update",
     "test": "tsc && protractor temp/config.js"
   },
   "author": "Jacek Góraj <jckgrj@gmail.com>",
