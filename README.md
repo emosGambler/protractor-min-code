@@ -8,4 +8,4 @@ npm run before-test
 npm run test
 ```
 
-If tyou want to understand the code, visit [this article](https://medium.com/@jacekgraj/a-minimal-protractor-project-setup-with-detailed-explanation-735eadcde3e4) and feel free to comment on it!
+If tyou want to understand this code more, visit [this article](https://medium.com/@jacekgraj/a-minimal-protractor-project-setup-with-detailed-explanation-735eadcde3e4) and feel free to comment on it!
